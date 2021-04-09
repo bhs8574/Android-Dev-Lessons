@@ -2,4 +2,5 @@
     <string name="app_name">HappyBirthday</string>
     <string name="happy_birthday_bumm">Happy Birthday, Bumm!</string>
     <string name="from_bobby">From Bobby</string>
+    <string name="there_s_nothing_special_about_today">There\'s nothing special about today.</string>
 </resources>
